@@ -1,6 +1,6 @@
 ![](https://github.com/sreoshee-17/sreoshee-17/blob/main/gif.gif)
 # 💫 About Me:
-Hi there🌻, I am Sreoshee Dutta, pursuing Bachelor of Technology in Computer Science and Engineering.<br>Since I love painting, I am interested in designing of websites and Front-End Development.<br>Currently, I am learning different frameworks of front-end development and brushing up my coding skills.<br>In my leisure time, I either paint or read novels.<br>I am a keen learner and  I love exploring and learning something new everyday.<br><br>Feel free to connect with me on my socials or reach out to me at: duttasreoshee@gmail.com
+Hi there🌻, I am Sreoshee Dutta, pursuing Bachelor of Technology in Computer Science and Engineering.<br>Since I love painting, I am interested in designing of websites and Front-End Development.<br>Currently, I am learning different frameworks of front-end development and brushing up my coding skills.<br>In my leisure time, I either paint, read novels or listen to music.<br>I am a keen learner and  I love exploring and learning something new everyday.<br><br>Feel free to connect with me on my socials or reach out to me at: duttasreoshee@gmail.com
 
 
 ## 🌐 Socials:
